@@ -12,19 +12,19 @@
     <PackageRequired Version="5.0.x">ITSMConfigurationManagement</PackageRequired>
     <ModuleRequired Version="2.20">GraphViz</ModuleRequired>
     <Filelist>
-        <File Permission="644" Location="COPYING-OTRSCMDBExplorer"></File>
-        <File Permission="644" Location="OTRSCMDBExplorer.sopm"></File>
-        <File Permission="644" Location="doc/en/CMDBExplorer.pdf"></File>
-        <File Permission="644" Location="doc/en/CMDBExplorer.pod"></File>
-        <File Permission="644" Location="Kernel/Config/Files/CMDBExplorer.xml"></File>
-        <File Permission="644" Location="Kernel/System/CMDBExplorer.pm"></File>
-        <File Permission="644" Location="Kernel/System/CMDBExplorer/GraphVizRenderer.pm"></File>
-        <File Permission="644" Location="Kernel/System/CMDBExplorer/ObjectWrapper.pm"></File>
-        <File Permission="644" Location="Kernel/System/CMDBExplorer/Scope.pm"></File>
-        <File Permission="644" Location="Custom/Kernel/Modules/AgentITSMConfigItemZoom.pm"></File>
-        <File Permission="644" Location="Custom/Kernel/Modules/AgentITSMServiceZoom.pm"></File>
-        <File Permission="644" Location="Custom/Kernel/Output/HTML/Standard/AgentITSMConfigItemZoom.dtl"></File>
-        <File Permission="644" Location="Custom/Kernel/Output/HTML/Standard/AgentITSMServiceZoom.dtl"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/COPYING-OTRSCMDBExplorer"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/OTRSCMDBExplorer.sopm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/doc/en/CMDBExplorer.pdf"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/doc/en/CMDBExplorer.pod"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Kernel/Config/Files/CMDBExplorer.xml"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Kernel/System/CMDBExplorer.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Kernel/System/CMDBExplorer/GraphVizRenderer.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Kernel/System/CMDBExplorer/ObjectWrapper.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Kernel/System/CMDBExplorer/Scope.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Custom/Kernel/Modules/AgentITSMConfigItemZoom.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Custom/Kernel/Modules/AgentITSMServiceZoom.pm"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Custom/Kernel/Output/HTML/Standard/AgentITSMConfigItemZoom.dtl"></File>
+        <File Permission="644" Location="OTRSCMDExplorer-master/Custom/Kernel/Output/HTML/Standard/AgentITSMServiceZoom.dtl"></File>
     </Filelist>
     <IntroInstall Type="pre" Lang="en" Title="CMDBExplorer dependency notice">Please note that the CMDBExplorer AddOn require graphviz to be installed on your system.</IntroInstall>
 </otrs_package>
