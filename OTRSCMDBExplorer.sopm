@@ -6,7 +6,8 @@
     <Vendor>OTRS AG</Vendor>
     <URL>http://otrs.org/</URL>
     <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
-    <ChangeLog Version="0.0.1" Date="2018-02-05 19:00:00">New package (forked from OTRSCMDExplorer-0.0.8)</ChangeLog>
+    <ChangeLog Version="0.0.2" Date="2018-02-05 15:15:00">Changed OTRS Framework to 5.0.x</ChangeLog>
+    <ChangeLog Version="0.0.1" Date="2018-02-05 15:00:00">New package (forked from OTRSCMDExplorer-0.0.8)</ChangeLog>
     <Description Lang="en">A graphical CMDB explorer.</Description>
     <PackageRequired Version="5.0.x">ITSMConfigurationManagement</PackageRequired>
     <ModuleRequired Version="2.38">GraphViz</ModuleRequired>
