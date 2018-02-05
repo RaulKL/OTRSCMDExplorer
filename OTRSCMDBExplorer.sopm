@@ -10,7 +10,7 @@
     <ChangeLog Version="0.0.1" Date="2018-02-05 15:00:00">New package (forked from OTRSCMDExplorer-0.0.8)</ChangeLog>
     <Description Lang="en">A graphical CMDB explorer.</Description>
     <PackageRequired Version="5.0.x">ITSMConfigurationManagement</PackageRequired>
-    <ModuleRequired Version="2.38">GraphViz</ModuleRequired>
+    <ModuleRequired Version="2.20">GraphViz</ModuleRequired>
     <Filelist>
         <File Permission="644" Location="COPYING-OTRSCMDBExplorer"></File>
         <File Permission="644" Location="OTRSCMDBExplorer.sopm"></File>
